@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning pyhton and cyber skill
 - 💞️ I’m looking to collaborate on cyber and interesting projects
 - 📫 How to reach me bryanbesong01@gmail.com
-- 😄 Pronouns: Beson
+- 😄 Pronouns: Le P
 
 <!---
 Bes920/Bes920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
