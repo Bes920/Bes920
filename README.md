@@ -2,7 +2,6 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning pyhton and cyber skill
 - 💞️ I’m looking to collaborate on cyber and interesting projects
-- 📫 How to reach me bryanbesong01@gmail.com
 - 😄 Pronouns: Le P
 
 <!---
